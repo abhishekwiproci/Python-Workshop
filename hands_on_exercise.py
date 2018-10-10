@@ -53,3 +53,5 @@ print("12 x 96 =",)
 print("48 x 17 =",)
 
 print("196523 x 87323 =",)
+
+print ("Lab 1 Completed")
