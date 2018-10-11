@@ -1,2 +1,2 @@
-Print "Hello World !"
-Print "Welcome to the Git World !"
+print ("Hello World !")
+print ("Welcome to the Git World !")
